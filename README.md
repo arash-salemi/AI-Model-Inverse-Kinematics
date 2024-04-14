@@ -1,6 +1,6 @@
 # AI-Model-Inverse-Kinematics
 
-Modeling the inverse kinematics of a Panda UR5 Franka manipulator
+Modeling the inverse kinematics of a Panda UR5 Franka manipulator by machine learning algorithms
 
-- Generated the dataset through system identification and the use of direct kinematic equations
+- The dataset produced by applying direct kinematic equations to be used for system identification.
 - MLP and RNN networks training and design of hyper-parameters to estimate the inverse kinematics
